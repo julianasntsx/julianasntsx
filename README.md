@@ -1,4 +1,3 @@
-## Oii! Seja bem vindo(a)
  <div>
   <a href="https://github.com/hellojuli">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hellojuli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
