@@ -19,10 +19,10 @@
 
 
 
-  <a href="https://www.linkedin.com/in/hellojuli" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://www.linkedin.com/in/julianasntsx" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="https://twitter.com/hellojuli___" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%230077B5?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a> 
-  <a href="https://www.instagram.com/hellojuli___/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href="https://www.instagram.com/julianasntsx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%230077B5?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
  
-  ![Snake animation](https://github.com/hellojuli/hellojuli/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/julianasntsx/julianasntsx/blob/output/github-contribution-grid-snake.svg)
  
 </div>
