@@ -38,9 +38,5 @@
   <img src="https://github-profile-trophy.vercel.app/?username=julianasntsx&theme=dracula&row=1&no-bg=true&column=6&margin-w=15&margin-h=15" />
 </p>
 
-<p align="center">
-  <img src="https://github.com/julianasntsx/julianasntsx/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=EE82EE&height=120&section=footer"/>
 
